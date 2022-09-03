@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2da05d48-dec4-4b00-b0fe-a7f94234ab5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +43,35 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$PROJECT_DIR$/src/Week_2" />
+      <recent name="$PROJECT_DIR$/.." />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pattern26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_2.pattern26" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pattern26" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +81,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662058090425</updated>
-      <workItem from="1662058091525" duration="578000" />
+      <workItem from="1662058091525" duration="673000" />
+      <workItem from="1662105007662" duration="6543000" />
+      <workItem from="1662196530738" duration="3000" />
+      <workItem from="1662196547609" duration="15165000" />
     </task>
     <servers />
   </component>
