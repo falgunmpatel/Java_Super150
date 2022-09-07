@@ -1,7 +1,7 @@
 package Week_2;
 
 import java.util.*;
-public class pattern19 {
+public class pattern_19 {
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
 

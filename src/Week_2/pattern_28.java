@@ -2,7 +2,7 @@ package Week_2;
 
 import java.util.*;
 
-public class pattern28 {
+public class pattern_28 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

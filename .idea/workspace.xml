@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2da05d48-dec4-4b00-b0fe-a7f94234ab5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_2/pattern5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_2/pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/falgunpatel/Desktop/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Week_2" />
@@ -54,6 +52,45 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3.GCD" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_2.pattern1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_2.pattern14" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_2.pattern26" />
       <module name="Java" />
@@ -69,6 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.pattern14" />
+        <item itemvalue="Application.pattern1" />
         <item itemvalue="Application.pattern26" />
       </list>
     </recent_temporary>
@@ -84,7 +124,16 @@
       <workItem from="1662058091525" duration="673000" />
       <workItem from="1662105007662" duration="6543000" />
       <workItem from="1662196530738" duration="3000" />
-      <workItem from="1662196547609" duration="15165000" />
+      <workItem from="1662196547609" duration="21544000" />
+      <workItem from="1662526564815" duration="1046000" />
+      <workItem from="1662527618305" duration="221000" />
+      <workItem from="1662527846324" duration="834000" />
+      <workItem from="1662528825239" duration="624000" />
+      <workItem from="1662529457263" duration="10000" />
+      <workItem from="1662529512481" duration="52000" />
+      <workItem from="1662529571743" duration="38000" />
+      <workItem from="1662529623721" duration="746000" />
+      <workItem from="1662530503248" duration="35000" />
     </task>
     <servers />
   </component>
