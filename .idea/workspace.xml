@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2da05d48-dec4-4b00-b0fe-a7f94234ab5f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_3/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Maximum_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Maximum_Subarray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Array" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_3.GCD" />
       <module name="Java" />
@@ -106,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.pattern14" />
         <item itemvalue="Application.pattern1" />
@@ -134,6 +148,21 @@
       <workItem from="1662529571743" duration="38000" />
       <workItem from="1662529623721" duration="746000" />
       <workItem from="1662530503248" duration="35000" />
+      <workItem from="1662611639385" duration="1208000" />
+      <workItem from="1663002332133" duration="164000" />
+      <workItem from="1663002828723" duration="92000" />
+      <workItem from="1663003928923" duration="23000" />
+      <workItem from="1663072810963" duration="826000" />
+      <workItem from="1663124615755" duration="568000" />
+      <workItem from="1663135164366" duration="1214000" />
+      <workItem from="1663144288825" duration="143000" />
+      <workItem from="1663220219221" duration="1424000" />
+      <workItem from="1663402063694" duration="26000" />
+      <workItem from="1663736275836" duration="713000" />
+      <workItem from="1664096610721" duration="9150000" />
+      <workItem from="1664180842557" duration="1744000" />
+      <workItem from="1664363807060" duration="5530000" />
+      <workItem from="1664431233573" duration="1509000" />
     </task>
     <servers />
   </component>

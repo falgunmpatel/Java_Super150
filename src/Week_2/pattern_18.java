@@ -12,7 +12,7 @@ public class pattern_18 {
 		sol_1(n);
 
 		sc.close();
-		}
+	}
 
 	public static void sol_1 (int n) {
 		int space = (n - 1)/2, star = 1;
